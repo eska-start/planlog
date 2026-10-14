@@ -1,0 +1,18 @@
+{
+  "name": "플랜로그 PlanLog - 스마트 여행 플래너",
+  "short_name": "PlanLog",
+  "description": "외부 유료 API 없이 작동하는 올인원 스마트 여행 일정·바우처·동선 관리 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/planlog-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

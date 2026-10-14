@@ -1,0 +1,15 @@
+{
+  "appId": "com.planlog.travelplanner",
+  "appName": "PlanLog",
+  "webDir": "dist/public",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#6366f1"
+    }
+  }
+}
